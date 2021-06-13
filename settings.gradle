@@ -1,2 +1,3 @@
 rootProject.name = 'begnier26'
+include 'java'
 
